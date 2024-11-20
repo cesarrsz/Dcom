@@ -1,0 +1,7 @@
+C:\Users\cesar\source\repos\Dcom com\Dcom com\bin\Debug\Dcom com.exe.config
+C:\Users\cesar\source\repos\Dcom com\Dcom com\bin\Debug\Dcom com.exe
+C:\Users\cesar\source\repos\Dcom com\Dcom com\bin\Debug\Dcom com.pdb
+C:\Users\cesar\source\repos\Dcom com\Dcom com\obj\Debug\Dcom com.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\Dcom com\Dcom com\obj\Debug\Dcom com.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\Dcom com\Dcom com\obj\Debug\Dcom com.exe
+C:\Users\cesar\source\repos\Dcom com\Dcom com\obj\Debug\Dcom com.pdb
